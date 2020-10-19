@@ -1,4 +1,4 @@
-Example files for the course "Foundations of Artificial  Intelligence and Machine Learning"
+Basic examples using Keras package
 
 mnist_fcnn.ipynb  : Basic fully connected neural network for mnist digit classification
 
